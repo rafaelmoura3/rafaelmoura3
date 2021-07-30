@@ -2,7 +2,7 @@
 
 - 🔭 Trabalhando hoje com back-end
 - 🌱 Estudando Javascript, Typescript, Node.js
-- 📫 Contateme no Linkedin: 
+- 📫 Contate me no Linkedin: 
 
  <div>
   <a href="https://github.com/rafaelmoura3">
