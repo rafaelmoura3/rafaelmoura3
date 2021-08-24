@@ -1,6 +1,6 @@
 ### Olá sou o Rafael Moura 👋
 
-- 🔭 Trabalhando hoje com back-end
+- 🔭 Trabalhando/Estudando back-end.
 - 🌱 Estudando Javascript, Typescript, Node.js
 - 📫 Contate me no Linkedin: 
 
