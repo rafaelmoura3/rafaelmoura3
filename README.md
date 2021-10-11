@@ -1,6 +1,6 @@
 ### Olá sou o Rafael Moura 👋
 
-- 🔭 Trabalhando: 
+- 🔭 Trabalhando: FMX- Soluções em Tecnologia
 - 🌱 Estudando Back-end, Javascript, Typescript, Node.js
 - 📫 Contate me no Linkedin: https://www.linkedin.com/in/rafael-moura-1b2788129/
 
