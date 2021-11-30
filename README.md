@@ -2,7 +2,7 @@
 
 - 🔭 Trabalhando: FMX- Soluções em Tecnologia
 - 🌱 Estudando Back-end, Javascript, Typescript, Node.js
-- 📫 Contate me no Linkedin: www.linkedin.com/in/rafaellmoura
+- 📫 Contate-me no Linkedin: www.linkedin.com/in/rafaellmoura
  <div>
   <a href="https://github.com/rafaelmoura3">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmoura3&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
