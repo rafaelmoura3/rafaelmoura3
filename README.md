@@ -2,7 +2,7 @@
 
 - 🔭 Working at the moment: C# - Vue.js - Microsoft Sql Server
 - 🌱 Estudying Back-end, Javascript, Typescript, Node.js
-- 📫 contact me in Linkedin: www.linkedin.com/in/rafaellmoura
+- 📫 Contact me in Linkedin: www.linkedin.com/in/rafaellmoura
  <div>
   <a href="https://github.com/rafaelmoura3">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmoura3&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
