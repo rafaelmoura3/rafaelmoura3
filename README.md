@@ -1,4 +1,5 @@
 ### Olá sou o Rafael Moura 👋
+### Hi I'm Rafael Moura 👋
 
 - 🔭 Working at the moment: C# - Vue.js - Microsoft Sql Server
 - 🌱 Estudying Back-end, Javascript, Typescript, Node.js
