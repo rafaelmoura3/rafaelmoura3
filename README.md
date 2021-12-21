@@ -1,6 +1,6 @@
 ### Olá sou o Rafael Moura 👋
 
-- 🔭 Trabalhando: FMX- Soluções em Tecnologia
+- 🔭 Trabalhando Com: C# - Vue.js - Microsoft Sql Server
 - 🌱 Estudando Back-end, Javascript, Typescript, Node.js
 - 📫 Contate-me no Linkedin: www.linkedin.com/in/rafaellmoura
  <div>
