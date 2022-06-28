@@ -1,6 +1,6 @@
 ### Hi I'm Rafael Moura 👋
 
-- 🔭 Working at the moment: C# - Vue.js - Microsoft Sql Server
+- 🔭 Working at the moment: C# - Microsoft Sql Server
 - 🌱 Estudying Back-end, Javascript, Typescript, Node.js
 - 📫 Contact me in Linkedin: www.linkedin.com/in/rafaellmoura
  <div>
